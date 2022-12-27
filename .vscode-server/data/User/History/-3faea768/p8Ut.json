@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "python.defaultInterpreterPath": "c:\\Windows\\py.exe",
+    "workbench.editorAssociations": {
+        "*.pyc": "default",
+        "*.exe": "default"
+    },
+    "remote.SSH.remoteServerListenOnSocket": true,
+    "remote.SSH.remotePlatform": {
+        "192.168.150.128": "linux",
+        "192.168.150.131": "linux",
+        "192.168.150.132": "linux",
+        "192.168.150.133": "linux",
+        "192.168.150.134": "linux"
+    }
+}

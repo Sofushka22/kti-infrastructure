@@ -1,0 +1,14 @@
+2022-12-27 02:52:01.733 [info] Extension host agent started.
+2022-12-27 02:52:03.745 [error] [<unknown>][feb5fda2][ManagementConnection] Unknown reconnection token (never seen).
+2022-12-27 02:52:03.773 [error] [<unknown>][af073e0d][ExtensionHostConnection] Unknown reconnection token (never seen).
+2022-12-27 02:52:27.390 [info] [<unknown>][8bb6c0c5][ManagementConnection] New connection established.
+2022-12-27 02:52:27.393 [info] [<unknown>][1cf86dae][ExtensionHostConnection] New connection established.
+2022-12-27 02:52:27.401 [info] [<unknown>][1cf86dae][ExtensionHostConnection] <1265> Launched Extension Host Process.
+2022-12-27 03:18:13.558 [info] Getting Manifest... ms-azuretools.vscode-docker
+2022-12-27 03:18:13.965 [info] Installing extension: ms-azuretools.vscode-docker
+2022-12-27 03:18:18.699 [info] Extracted extension to /home/tsurkinasa/.vscode-server/extensions/.31bb07bb-ef83-4b28-901c-e8a6ac666e53: ms-azuretools.vscode-docker
+2022-12-27 03:18:18.704 [info] Renamed to /home/tsurkinasa/.vscode-server/extensions/ms-azuretools.vscode-docker-1.23.3
+2022-12-27 03:18:18.714 [info] Extracting completed. ms-azuretools.vscode-docker
+2022-12-27 03:18:18.719 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2022-12-27 03:18:41.639 [error] Error: connect ECONNREFUSED 20.44.10.123:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)

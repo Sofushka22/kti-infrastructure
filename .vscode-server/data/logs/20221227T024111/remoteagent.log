@@ -1,0 +1,15 @@
+2022-12-27 02:41:11.217 [info] Extension host agent started.
+2022-12-27 02:41:11.384 [info] Started initializing default profile extensions in extensions installation folder. file:///home/tsurkinasa/.vscode-server/extensions
+2022-12-27 02:41:11.414 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/tsurkinasa/.vscode-server/extensions
+2022-12-27 02:41:33.904 [info] [<unknown>][362a6189][ManagementConnection] New connection established.
+2022-12-27 02:41:33.905 [info] [<unknown>][9a8fe84d][ExtensionHostConnection] New connection established.
+2022-12-27 02:41:33.908 [info] [<unknown>][9a8fe84d][ExtensionHostConnection] <10491> Launched Extension Host Process.
+2022-12-27 02:42:48.056 [info] [<unknown>][362a6189][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-27 02:42:48.098 [info] [<unknown>][9a8fe84d][ExtensionHostConnection] <10491> Extension Host Process exited with code: 0, signal: null.
+2022-12-27 02:42:48.098 [info] Last EH closed, waiting before shutting down
+2022-12-27 02:43:30.848 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2022-12-27 02:43:30.848 [info] Cancelling previous shutdown timeout
+2022-12-27 02:43:35.523 [info] [<unknown>][feb5fda2][ManagementConnection] New connection established.
+2022-12-27 02:43:35.534 [info] [<unknown>][af073e0d][ExtensionHostConnection] New connection established.
+2022-12-27 02:43:35.539 [info] [<unknown>][af073e0d][ExtensionHostConnection] <10620> Launched Extension Host Process.
+2022-12-27 02:48:30.882 [info] New EH opened, aborting shutdown
